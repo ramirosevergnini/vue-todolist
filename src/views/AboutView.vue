@@ -35,7 +35,7 @@
           </v-list-item-avatar>
 
           <v-list-item-content>
-            <v-list-item-title v-html="item.titulo"></v-list-item-title>
+  
           </v-list-item-content>
         </v-list-item>
       </template>
@@ -43,13 +43,7 @@
     <hr>
     <section>
       <p>
-        <v-card-title>Obrigado por prestigiar o projeto!!!</v-card-title>
-        <v-card-subtitle >Contato:</v-card-subtitle>
-        <v-card-text>
-        <strong>📨E-mail:</strong> yuri.erik.oliveira@gmail.com<br>
-        <strong>🧑‍💻 Yuri Marcon</strong><br>
-        <img src="../assets/octocat.png" height="20px" alt="imagem octocat" /> <a href="https://github.com/yurimarcon">/yurimarcon</a>
-        </v-card-text>
+        
       </p>
     </section>
       
